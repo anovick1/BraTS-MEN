@@ -1,6 +1,6 @@
 # BraTS-Meningioma-RT: Meningioma Radiotherapy Segmentation
 
-Using the 2023 data for task 3 of the [BraTS-Lighthouse 2025 Challeng](https://www.synapse.org/Synapse:syn64153130/wiki/631057)
+Using the 2023 data for task 3 of the [BraTS-Lighthouse 2025 Challenge](https://www.synapse.org/Synapse:syn64153130/wiki/631057)
 
 ## What’s the problem?
 
